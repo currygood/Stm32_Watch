@@ -25,3 +25,6 @@ That's all simple use.
 (6)OLED_SDA:B9
 .......
 ![Uploading 742f12e0e4ba2bfadca12c6bc5e9a00f.jpg…]()
+
+具体的看我b站：
+https://www.bilibili.com/video/BV1EPhvzxEYv/?vd_source=c9924bda4031caf6f7caa15a01d9be91#reply273445220865
