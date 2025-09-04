@@ -1,6 +1,6 @@
 # Stm32_Watch
 Stm32_Watch OR Desktop decoration And Other things. Whatever you want to become, it is.
-
+一. Version 1.1
 I developed using ST's standard library.
 1.My hardware:
 (1)stm32: STM32F103C8T6
@@ -28,3 +28,10 @@ That's all simple use.
 
 具体的看我b站：
 https://www.bilibili.com/video/BV1EPhvzxEYv/?vd_source=c9924bda4031caf6f7caa15a01d9be91#reply273445220865
+
+二. Version 2.1
+Version 2.1 major update
+1. Get the key values updated, various key functions (long press, double click, click, repeat).
+2. Added stop mode (one of the STM32 low power modes) for power saving; On the home page, long press KEY3 to enter (OLED is no longer displayed). If you want to exit, press KEY_2.
+3. Dinosaur Minigame Update: There is a tall cactus that requires a double click KEY_1 (that is, a big jump) to jump over.
+4. When setting the time, press and hold to speed up (using the repeat function of the button).
