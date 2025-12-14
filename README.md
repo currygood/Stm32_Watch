@@ -1,4 +1,4 @@
-# Stm32_Watch
+![引脚图](https://github.com/user-attachments/assets/6f090392-4d39-4815-a759-fb017f9702ad)# Stm32_Watch
 Stm32_Watch OR Desktop decoration And Other things. Whatever you want to become, it is.
 一. Version 1.1
 I developed using ST's standard library.
@@ -35,3 +35,5 @@ Version 2.1 major update
 2. Added stop mode (one of the STM32 low power modes) for power saving; On the home page, long press KEY3 to enter (OLED is no longer displayed). If you want to exit, press KEY_2.
 3. Dinosaur Minigame Update: There is a tall cactus that requires a double click KEY_1 (that is, a big jump) to jump over.
 4. When setting the time, press and hold to speed up (using the repeat function of the button).
+
+![引脚图](https://github.com/user-attachments/assets/0182c2d8-32e9-43f1-9158-9a21a276398b)
